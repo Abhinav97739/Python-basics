@@ -1,0 +1,5 @@
+a=int(input("Enter the integer "))
+print(a+10)
+b=(input("Integer value is "))
+print(int(b)+ 10)
+print(type(a),type(b))

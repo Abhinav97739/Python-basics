@@ -1,0 +1,10 @@
+a=5
+b=6
+sum=a+b
+diffrence=b-a
+d=b/a
+k=a*b
+print(sum)
+print(diffrence)
+print(d)
+print(k)
